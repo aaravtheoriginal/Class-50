@@ -1,0 +1,24 @@
+h1{color: orangered;}
+            h2{color: midnightblue;}
+            p{color: olive;}
+            .Headder{
+                background-color:black;
+                display: flex;
+        justify-content: space-between;
+        
+        
+        }
+        .Grid{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+        .footer{
+            display: flex;
+            justify-content: flex-end;
+        }
+        .item{
+            background-color: grey;
+        }
+        p,h2{text-align: center;}
+        
